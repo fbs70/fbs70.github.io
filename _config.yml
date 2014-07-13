@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+# pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Blair Shotlow
+tagline:          ''
+description:      'A Dashing Urbanite'
+url:              http://fbs70.github.io
+baseurl:          /
+
+author:
+  name:           'Blair Shotlow'
+  url:            'https://twitter.com/fbs70'
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/fbs70/fbs70.github.io

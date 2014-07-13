@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Blair Shotlow</title>
+ <link href="http://fbs70.github.io/atom.xml" rel="self"/>
+ <link href="http://fbs70.github.io/"/>
+ <updated>2014-07-13T09:16:17-05:00</updated>
+ <id>http://fbs70.github.io</id>
+ <author>
+   <name>Blair Shotlow</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Moving to Jekyll</title>
+   <link href="http://fbs70.github.io/2014/07/12/moving-to-jekyll/"/>
+   <updated>2014-07-12T00:00:00-05:00</updated>
+   <id>http://fbs70.github.io/2014/07/12/moving-to-jekyll</id>
+   <content type="html">&lt;p&gt;I am moving my personal blog to Jekyll.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
